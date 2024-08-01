@@ -1,0 +1,17 @@
+/*Alternando registros em uma tabela*/
+
+update `bd_caso_estudo_vendas`.`tb_cli(
+set cli_cpf = '02020202022'
+where cli_cod = 1;
+
+('nome', 'end_rua', 'end numero', 'end_bairro', 'end_cep', 'cpf')
+
+
+cod
+('', '', '', '', '', '',),
+('', '', '', '', '', '',),
+('', '', '', '', '', '',),
+('', '', '', '', '', '',),
+('', '', '', '', '', '',),
+('', '', '', '', '', '',),
+  
