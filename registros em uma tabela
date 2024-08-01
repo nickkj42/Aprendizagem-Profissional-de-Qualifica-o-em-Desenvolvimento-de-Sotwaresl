@@ -20,5 +20,7 @@ values
 ('11', 'Pedro Alves', 'rua da pedra', '33', 'cei norte', '7254540' '99999999999'),
 ('12', 'Lara Rodrigues', 'Rua das Flores', '09', 'aguas lindas', '72610202' '08670062181'),
 ('13', 'Nathan de Aguiar', 'Rua 3', '03', 'SHVP', '72500048', '74589669845'),
-('13', 'Debora', 'rua da saudade', '08', 'norte', '7223890'),
+('13', 'Debora', 'rua da saudade', '08', 'norte', '7223890');
+
+
 
