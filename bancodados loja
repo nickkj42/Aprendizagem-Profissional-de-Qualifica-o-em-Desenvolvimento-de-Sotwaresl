@@ -112,30 +112,6 @@ select * from tb_prod_comp;
 alter table `bd_caso_estudo_vendas`.``tb_func`
 add
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*Criando tabela CLIENTE*/
 
 CREATE TABLE CLIENTE(
