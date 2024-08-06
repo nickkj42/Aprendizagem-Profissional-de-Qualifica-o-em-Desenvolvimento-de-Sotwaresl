@@ -1,0 +1,19 @@
+/ *Implementação Banco de dados MySQL * /
+
+CREATE TABLE 'empresa' '.'(
+
+/*Criando tabela CLIENTE*/
+
+CREATE TABLE CLIENTE(
+
+codigo varchar(100) int not null,
+forn_nome varchar(100) not null,
+forn_endereco varchar(100) not null,
+forn_cpf varchar(11) not null,
+ 
+ insert into CLIENTE
+);
+ 
+
+INSERT INTO
+);
