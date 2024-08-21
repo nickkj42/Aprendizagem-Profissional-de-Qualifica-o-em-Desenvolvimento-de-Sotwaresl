@@ -44,21 +44,3 @@ valor varchar(100)
 );
  describe value;
  select * from produto
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
