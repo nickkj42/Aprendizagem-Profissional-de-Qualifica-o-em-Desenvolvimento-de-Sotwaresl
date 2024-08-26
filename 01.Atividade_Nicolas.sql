@@ -2,6 +2,9 @@
 create database empresa;
 use empresa;
 
+/* Implementação Banco de Dados Relacional SQL */
+create table "bd_caso_estudo_vendas";
+
 /*01 criando tabela*/
 
 create table cliente(
